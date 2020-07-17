@@ -1,2 +1,2 @@
-# Training_Course_Notes
-Training_Course_Notes
+# Training_Notes
+Training_Notes
